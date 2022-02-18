@@ -1,0 +1,21 @@
+.currencyTable {
+    width: 50%;
+    border: none;
+    border-collapse: collapse;
+}
+
+.columncode {
+    width: 20%;
+}
+
+.columnname {
+    width: 60%;
+}
+
+.columnvalue {
+    width: 20%;
+}
+
+.odd {
+    background-color: gray;
+}
